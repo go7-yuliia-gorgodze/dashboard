@@ -1,0 +1,15 @@
+.header {
+  padding: 41px 0 0 71px;
+  background: #FAFBFF;
+}
+
+@media screen and (max-width: 920px) {
+  .header {
+    padding: 16px;
+  }
+}
+.title {
+font-size: 24px;
+font-weight: 500;
+line-height: normal;
+}

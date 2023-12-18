@@ -1,0 +1,60 @@
+.slider {
+
+  max-height: 1198px;
+  position: relative;
+}
+
+@media screen and (min-width: 920px) {
+    .slider {
+        width: 100px !important;
+        max-width: 100px !important;
+        min-width: 100px !important;
+
+    }
+}
+@media screen and (min-width: 991px) {
+    .slider {
+        width: 300px !important;
+        max-width: 300px !important;
+        min-width: 300px !important;
+    }
+}
+
+.content {
+    margin: 24px 16px 0px 71px;
+}
+
+@media screen and (max-width: 920px) {
+    .content {
+        margin: 16px;
+    }
+}
+.userTitle > span {
+  display: block;
+}
+.name {
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.14px;
+}
+.job {
+  color: #757575;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.12px;
+}
+
+.userContainer {
+  position: absolute;
+  bottom: 0;
+  padding-left: 28px;
+  padding-bottom: 76px;
+}
+
+@media screen and (max-width: 920px) {
+   .userContainer {
+     display: none;
+   }
+}

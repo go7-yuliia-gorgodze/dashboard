@@ -1,0 +1,21 @@
+.title {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: -0.22px;
+}
+
+.activeMembersTitle {
+  color: #16C098;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.14px;
+  margin-top: 7px;
+}
+
+.searchInput {
+    width: 216px;
+    height: 38px;
+}

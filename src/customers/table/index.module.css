@@ -1,0 +1,11 @@
+
+@media screen and (min-width: 920px) {
+    .tableMob {
+       display: none;
+    }
+}
+@media screen and (max-width: 920px) {
+    .table {
+       display: none;
+    }
+}
