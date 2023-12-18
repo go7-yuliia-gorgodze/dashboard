@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.fe46fb5c.css",
+    "main.js": "/dashboard/static/js/main.021f38b4.js",
+    "static/media/user.svg": "/dashboard/static/media/user.3e9139e73b8148297f13c3da316c4900.svg",
+    "static/media/percent.svg": "/dashboard/static/media/percent.9a62028d27bd29d6d1233b6ede98f2d2.svg",
+    "static/media/money.svg": "/dashboard/static/media/money.61b3b71d2f73ac0e02fba8d643c6b4fa.svg",
+    "static/media/box.svg": "/dashboard/static/media/box.24f575de11aefeaa153c3e921994d676.svg",
+    "static/media/message.svg": "/dashboard/static/media/message.c89d33fe842de8b41b84b28dae6b82c3.svg",
+    "static/media/person.svg": "/dashboard/static/media/person.83d86cdc9b41eab9f56803692baf1869.svg",
+    "static/media/logo.svg": "/dashboard/static/media/logo.72c3fd7e7231b5a2ea99bbf96b43ae9d.svg",
+    "static/media/key.svg": "/dashboard/static/media/key.a198f4251266f68cc3837e45f602c2c1.svg",
+    "index.html": "/dashboard/index.html",
+    "main.fe46fb5c.css.map": "/dashboard/static/css/main.fe46fb5c.css.map",
+    "main.021f38b4.js.map": "/dashboard/static/js/main.021f38b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe46fb5c.css",
+    "static/js/main.021f38b4.js"
+  ]
+}
